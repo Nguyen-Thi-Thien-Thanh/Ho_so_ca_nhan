@@ -1,0 +1,105 @@
+body
+{
+    background-image: url('CVpicture/CVBG.png');
+    background-size: 1600px 760px; 
+    background-repeat: no-repeat; 
+    height: 0%; 
+    margin: 0;
+}
+
+#hosocanhan
+{
+    Position: absolute;
+    top: 3%;
+    left: 42.5%;
+    font-size: 24px;
+    Color: black ;
+}
+
+#img
+{
+    Position: absolute;
+    Top: 5%; 
+    left: 5%;
+}
+
+#thongtincanhan
+{
+    Position: absolute;
+    top: 17%;
+    right: 14%;
+    font-size: 16px;
+    Color: white;
+}
+#thongtincanhan
+{
+    line-height: 0.7;
+}
+
+#text1
+{
+    Position: absolute;
+    Top: 19%; 
+    right: 27% ;
+    font-size: 22px;
+    Color: black ;
+}
+#text1 p {
+    line-height: 0.4; 
+  }
+
+#hoctap
+{
+    Position: absolute;
+    top: 49.5%;
+    right: 6.2% ;
+    font-size: 24px;
+    transform: rotate(13deg);
+    Color: white;
+}
+
+#text2
+{
+    Position: absolute;
+    Top: 51%; 
+    right: 18% ;
+    font-size: 22px;
+    Color: black ;
+}
+#text2 p {
+    line-height: 0.5; 
+  }
+
+#sothich
+{
+    Position: absolute;
+    top: 72% ;
+    right: 16% ;
+    font-size: 24px;
+    transform: rotate(25deg);
+    Color: white ;
+}
+
+#text3
+{
+    Position: absolute;
+    Top: 75%; 
+    right: 31% ;
+    font-size: 25px;
+    Color: black ;
+}
+#text3 p {
+    line-height: 1;
+  }
+
+#text4
+{
+    Position: absolute;
+    Top: 81%; 
+    right: 25% ;
+    font-size: 25px;
+    Color: black ;
+}
+#text4 p {
+    line-height: 1;
+  }
