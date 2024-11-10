@@ -95,11 +95,11 @@ body
 #text4
 {
     Position: absolute;
-    Top: 78%; 
+    Top: 80%; 
     right: 25% ;
     font-size: 25px;
     Color: black ;
 }
 #text4 p {
-    line-height: 1;
+    line-height: 0.5;
   }
