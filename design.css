@@ -7,33 +7,12 @@ body
     margin: 0;
 }
 
-#hosocanhan
-{
-    Position: absolute;
-    top: 3%;
-    left: 42.5%;
-    font-size: 24px;
-    Color: black ;
-}
 
 #img
 {
     Position: absolute;
     Top: 5%; 
     left: 5%;
-}
-
-#thongtincanhan
-{
-    Position: absolute;
-    top: 21%;
-    right: 14%;
-    font-size: 16px;
-    Color: white;
-}
-#thongtincanhan
-{
-    line-height: 0.7;
 }
 
 #text1
@@ -48,15 +27,6 @@ body
     line-height: 0.4; 
   }
 
-#hoctap
-{
-    Position: absolute;
-    top: 59%;
-    right: 6.2% ;
-    font-size: 24px;
-    transform: rotate(13deg);
-    Color: white;
-}
 
 #text2
 {
@@ -70,15 +40,6 @@ body
     line-height: 0.5; 
   }
 
-#sothich
-{
-    Position: absolute;
-    top: 85% ;
-    right: 15.5% ;
-    font-size: 24px;
-    transform: rotate(25deg);
-    Color: white ;
-}
 
 #text3
 {
