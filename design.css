@@ -20,7 +20,7 @@ body
     Position: absolute;
     Top: 24%; 
     right: 27% ;
-    font-size: 24px;
+    font-size: 22px;
     Color: black ;
 }
 #text1 p {
@@ -33,7 +33,7 @@ body
     Position: absolute;
     Top: 62%; 
     right: 18% ;
-    font-size: 22px;
+    font-size: 21px;
     Color: black ;
 }
 #text2 p {
@@ -46,7 +46,7 @@ body
     Position: absolute;
     Top: 90%; 
     right: 31% ;
-    font-size: 25px;
+    font-size: 23px;
     Color: black ;
 }
 #text3 p {
@@ -58,7 +58,7 @@ body
     Position: absolute;
     Top: 98%; 
     right: 25% ;
-    font-size: 25px;
+    font-size: 23px;
     Color: black ;
 }
 #text4 p {
