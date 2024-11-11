@@ -1,7 +1,7 @@
 body
 {
     background-image: url('CVpicture/CVBG.png');
-    background-size: 1600px 760px; 
+    background-size: 100% ; 
     background-repeat: no-repeat; 
     height: 0%; 
     margin: 0;
@@ -26,7 +26,7 @@ body
 #thongtincanhan
 {
     Position: absolute;
-    top: 17%;
+    top: 21%;
     right: 14%;
     font-size: 16px;
     Color: white;
@@ -39,9 +39,9 @@ body
 #text1
 {
     Position: absolute;
-    Top: 19%; 
+    Top: 24%; 
     right: 27% ;
-    font-size: 22px;
+    font-size: 24px;
     Color: black ;
 }
 #text1 p {
@@ -51,7 +51,7 @@ body
 #hoctap
 {
     Position: absolute;
-    top: 49.5%;
+    top: 59%;
     right: 6.2% ;
     font-size: 24px;
     transform: rotate(13deg);
@@ -61,7 +61,7 @@ body
 #text2
 {
     Position: absolute;
-    Top: 51%; 
+    Top: 62%; 
     right: 18% ;
     font-size: 22px;
     Color: black ;
@@ -73,8 +73,8 @@ body
 #sothich
 {
     Position: absolute;
-    top: 72% ;
-    right: 16% ;
+    top: 85% ;
+    right: 15.5% ;
     font-size: 24px;
     transform: rotate(25deg);
     Color: white ;
@@ -83,7 +83,7 @@ body
 #text3
 {
     Position: absolute;
-    Top: 75%; 
+    Top: 90%; 
     right: 31% ;
     font-size: 25px;
     Color: black ;
@@ -95,7 +95,7 @@ body
 #text4
 {
     Position: absolute;
-    Top: 80%; 
+    Top: 98%; 
     right: 25% ;
     font-size: 25px;
     Color: black ;
